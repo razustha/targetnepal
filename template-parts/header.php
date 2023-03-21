@@ -29,7 +29,7 @@
           <p class="float-md-end m-0 socials-head">Follow Us -
             <a href="https://www.facebook.com/"><i class="fa-brands fa-facebook me-3 ms-2"></i></a>
             <a href="https://www.instagram.com/"><i class="fa-brands fa-instagram me-3"></i></a>
-            <a class="text-light learn-more" href="tel:01-5911250">Call Now <i class="ms-2 fa-solid fa-phone"></i></a>
+            <!-- <a class="text-light learn-more" href="tel:01-5911250">Call Now <i class="ms-2 fa-solid fa-phone"></i></a> -->
           </p>
         </div>
       </div>
