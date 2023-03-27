@@ -17,6 +17,16 @@
         <div class="vstack gap-4">
             <div class="row g-4">
             <div class="col-md-3">
+                    <a href="assets/img/demand/tchrpvl_12_chait_20.png" data-lightbox="image-1">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrpvl_12_chait_20.png" alt="">
+                    </a>
+                </div>
+            <div class="col-md-3">
+                    <a href="assets/img/demand/tchrpvl_12_chait_20_2.png" data-lightbox="image-1">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrpvl_12_chait_20_2.png" alt="">
+                    </a>
+                </div>
+                <div class="col-md-3">
                     <a href="assets/img/demand/target_17gate.png" data-lightbox="image-1">
                         <img class="img-fluid rounded" src="assets/img/demand/target_17gate.png" alt="">
                     </a>
