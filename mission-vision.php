@@ -22,7 +22,7 @@
             <p class="medium-text fw-bold">Our Mission</p>
             <div class="row g-5 d-flex align-items-center">
                 <div class="col-md-6">
-                    <img class="img-fluid rounded" src="assets/img/Mission.jpg" alt="">
+                    <img class="img-fluid rounded" src="assets/img/mission.jpg" alt="">
                 </div>
                 <div class="col-md-6">
                     <p>
