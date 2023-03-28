@@ -691,7 +691,7 @@ a.learn-more:hover i {
     border: 1px solid #ddd;
 }
 
-.all-job img {
+/* .all-job img {
     height: 200px;
     width: 100%;
     object-fit: cover;
@@ -699,8 +699,14 @@ a.learn-more:hover i {
     padding: 10px;
     background-color: #e9e9e9;
     transition: all 400ms;
-}
+} */
 
+.all-job img{
+    height: 200px;
+width: 100%;
+object-fit: cover;
+transition: all 400ms;
+}
 .all-job img:hover{
     transform:scale(1.03);
     border: 2px solid var(--red);
