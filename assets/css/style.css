@@ -705,6 +705,7 @@ a.learn-more:hover i {
     height: 200px;
 width: 100%;
 object-fit: cover;
+
 transition: all 400ms;
 }
 .all-job img:hover{
@@ -778,7 +779,6 @@ div#category-image {
     width: 100%;
     object-fit: cover;
 }
-
 
 
 .associate-office i {
