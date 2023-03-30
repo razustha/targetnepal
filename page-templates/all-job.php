@@ -121,26 +121,7 @@
 
                     </a>
                 </div>
-                <div class="col-md-3">
-                    <a href="assets/img/demand/target_16gate_2.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-
-                            <img class="img-fluid rounded" src="assets/img/demand/target_16gate_2.png" alt="">
-
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2079/12/8</h5>
-
-                            </div>
-                        </div>
-
-                    </a>
-                </div>
-              
-               
-    
-
-
-
+                
             </div>   
         </div>
         <div class="mt-5">
