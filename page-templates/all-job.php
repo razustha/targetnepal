@@ -10,6 +10,21 @@
         <div class="row g-4">
             <div class="row g-4">
             <div class="col-md-3">
+                    <a href="assets/img/demand/tchrpl_18_chait-2.png" data-lightbox="image-1">
+                        <div class="card mb-4">
+
+                            <img class="img-fluid rounded" src="assets/img/demand/tchrpl_18_chait-2.png" alt="">
+
+                            <div class="card-body">
+                                <h5 class="card-title">Published Date: 2079/12/20</h5>
+
+                            </div>
+                        </div>
+
+                    </a>
+                </div>
+            
+            <div class="col-md-3">
                     <a href="assets/img/demand/tchrpl_17_chait-1.png" data-lightbox="image-1">
                         <div class="card mb-4">
 
@@ -23,6 +38,7 @@
 
                     </a>
                 </div>
+           
             <div class="col-md-3">
                     <a href="assets/img/demand/tchrpl_16_chait-1.png" data-lightbox="image-1">
                         <div class="card mb-4">
@@ -107,20 +123,7 @@
 
                     </a>
                 </div>
-                <div class="col-md-3">
-                    <a href="assets/img/demand/target_17gate.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-
-                            <img class="img-fluid rounded" src="assets/img/demand/target_17gate.png" alt="">
-
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2079/12/17</h5>
-
-                            </div>
-                        </div>
-
-                    </a>
-                </div>
+                
                 
                 
             </div>   
