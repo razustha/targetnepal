@@ -24,7 +24,7 @@
                             <img class="img-fluid rounded" src="assets/img/demand/tchrpl_22_chait.png" alt="">
 
                             <div class="card-body">
-                                <h5 class="card-title">Published Date: 2079/12/22</h5>
+                                <h5 class="card-title">Published Date: 2079/12/23</h5>
 
                             </div>
                         </div>
