@@ -15,6 +15,8 @@
         </div>
 
         <div class="vstack gap-4">
+           
+            <div class="row g-4">
             <div class="col-md-3">
                 <a href="assets/img/demand/tchrpl_21_chait.png" data-lightbox="image-1">
                     <div class="card mb-4">
@@ -29,7 +31,6 @@
                 </a>
 
             </div>
-            <div class="row g-4">
                 <div class="col-md-3">
                     <a href="assets/img/demand/tchrpl_20_chait.png" data-lightbox="image-1">
                         <div class="card mb-4">
