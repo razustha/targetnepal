@@ -16,7 +16,7 @@
                     <div class="col-md-4">
                         <i class="fa-solid fa-mobile-screen"></i>
                         <p class=" fw-bold">Contact Us</p>
-                        
+
                         <p>+977 1 5911250 / 5911251</p>
                     </div>
                     <div class="col-md-4">
