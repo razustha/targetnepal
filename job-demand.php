@@ -18,6 +18,20 @@
            
             <div class="row g-4">
             <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_27_chait.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_27_chait.png" alt="">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2079/12/28</h5>
+
+                        </div>
+                    </div>
+                </a>
+
+            </div>
+            <div class="col-md-3">
                 <a href="assets/img/demand/tchrpl_chait-1.png" data-lightbox="image-1">
                     <div class="card mb-4">
 
