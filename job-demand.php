@@ -18,7 +18,7 @@
            
             <div class="row g-4">
             <div class="col-md-3">
-                <a href="assets/img/demand/tchrp_28_chait.png" data-lightbox="image-1">
+                <a href="assets/img/demand/tchrp_g28_chait.png" data-lightbox="image-1">
                     <div class="card mb-4">
 
                         <img class="img-fluid rounded" src="assets/img/demand/tchrp_28_chait.png" alt="">
