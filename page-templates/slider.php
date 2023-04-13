@@ -12,16 +12,16 @@
         <!-- The slideshow/carousel -->
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <img src="assets/img/banner1.png" alt="" class="img-fluid">
+                <img src="assets/img/slider-1.png" alt="" class="img-fluid">
                 <?php include('additional-templates/main-content1.php') ?>
             </div>
             <div class="carousel-item">
-                <img src="assets/img/banner2.jpg" alt="" class="img-fluid">
+                <img src="assets/img/slider-2.jpg" alt="" class="img-fluid">
                 <?php include('additional-templates/main-content2.php') ?>
 
             </div>
             <div class="carousel-item">
-                <img src="assets/img/banner1.jpg" alt="" class="img-fluid">
+                <img src="assets/img/slider-3.jpg" alt="" class="img-fluid">
                 <?php include('additional-templates/main-content3.php') ?>
 
             </div>
