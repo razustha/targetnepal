@@ -16,12 +16,12 @@
                 <?php include('additional-templates/main-content1.php') ?>
             </div>
             <div class="carousel-item">
-                <img src="assets/img/slider-2.jpg" alt="" class="img-fluid">
+                <img src="assets/img/slider-2.png" alt="" class="img-fluid">
                 <?php include('additional-templates/main-content2.php') ?>
 
             </div>
             <div class="carousel-item">
-                <img src="assets/img/slider-3.jpg" alt="" class="img-fluid">
+                <img src="assets/img/slider-3.png" alt="" class="img-fluid">
                 <?php include('additional-templates/main-content3.php') ?>
 
             </div>
