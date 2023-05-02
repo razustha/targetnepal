@@ -9,6 +9,16 @@
 
         <div class="row g-4">
         <div class="col-md-3">
+                    <a href="assets/img/demand/tchrp_19_baisakh_2080.png" data-lightbox="image-1">
+                        <div class="card mb-4">
+                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_19_baisakh_2080.png" alt="">
+                            <div class="card-body">
+                                <h5 class="card-title">Published Date: 2080/01/20</h5>
+                            </div>
+                        </div>
+                    </a>
+                </div>
+        <div class="col-md-3">
                     <a href="assets/img/demand/tchrp_14_baisakh_2080_1.png" data-lightbox="image-1">
                         <div class="card mb-4">
                             <img class="img-fluid rounded" src="assets/img/demand/tchrp_14_baisakh_2080_1.png" alt="">
@@ -98,20 +108,7 @@
 
             </div>
 
-            <div class="col-md-3">
-                <a href="assets/img/demand/tchrp_3_baisakh_080_1.png" data-lightbox="image-1">
-                    <div class="card mb-4">
-
-                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_3_baisakh_080_1.png" alt="">
-
-                        <div class="card-body">
-                            <h5 class="card-title">Published Date: 2080/01/4</h5>
-
-                        </div>
-                    </div>
-                </a>
-
-            </div>
+            
         </div>
         <div class="mt-5">
             <a class="learn-more" href="job-demand.php">View More <i class="fa-solid fa-arrow-right ms-2"></i></a>
