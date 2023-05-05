@@ -8,76 +8,86 @@
 
 
         <div class="row g-4">
-        <div class="col-md-3">
-                    <a href="assets/img/demand/tchrp_19_baisakh_2080.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_19_baisakh_2080.png" alt="">
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2080/01/20</h5>
-                            </div>
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_21_baisakh_2080.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_21_baisakh_2080.png" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/22</h5>
                         </div>
-                    </a>
-                </div>
-        <div class="col-md-3">
-                    <a href="assets/img/demand/tchrp_14_baisakh_2080_1.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_14_baisakh_2080_1.png" alt="">
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2080/01/15</h5>
-                            </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_19_baisakh_2080.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_19_baisakh_2080.png" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/20</h5>
                         </div>
-                    </a>
-                </div>
-        <div class="col-md-3">
-                    <a href="assets/img/demand/tchrp_12_baisakh_2080_1.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_12_baisakh_2080_1.png" alt="">
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2080/01/13</h5>
-                            </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_14_baisakh_2080_1.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_14_baisakh_2080_1.png" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/15</h5>
                         </div>
-                    </a>
-                </div>
-                <div class="col-md-3">
-                    <a href="assets/img/demand/tchrp_12_baisakh_2080.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_12_baisakh_2080.png" alt="">
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2080/01/13</h5>
-                            </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_12_baisakh_2080_1.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_12_baisakh_2080_1.png" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/13</h5>
                         </div>
-                    </a>
-                </div>
-
-        <div class="col-md-3">
-                    <a href="assets/img/demand/tchrp_11_baisakh_080.png" data-lightbox="image-1">
-                        <div class="card mb-4">
-
-                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_11_baisakh_080.png" alt="">
-
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2080/01/12</h5>
-
-                            </div>
+                    </div>
+                </a>
+            </div>
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_12_baisakh_2080.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_12_baisakh_2080.png" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/13</h5>
                         </div>
-                    </a>
+                    </div>
+                </a>
+            </div>
 
-                </div>
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_11_baisakh_080.png" data-lightbox="image-1">
+                    <div class="card mb-4">
 
-        <div class="col-md-3">
-                    <a href="assets/img/demand/tchrp_8_baisakh_080.png" data-lightbox="image-1">
-                        <div class="card mb-4">
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_11_baisakh_080.png" alt="">
 
-                            <img class="img-fluid rounded" src="assets/img/demand/tchrp_8_baisakh_080.png" alt="">
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/12</h5>
 
-                            <div class="card-body">
-                                <h5 class="card-title">Published Date: 2080/01/9</h5>
-
-                            </div>
                         </div>
-                    </a>
+                    </div>
+                </a>
 
-                </div>
+            </div>
+
+            <div class="col-md-3">
+                <a href="assets/img/demand/tchrp_8_baisakh_080.png" data-lightbox="image-1">
+                    <div class="card mb-4">
+
+                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_8_baisakh_080.png" alt="">
+
+                        <div class="card-body">
+                            <h5 class="card-title">Published Date: 2080/01/9</h5>
+
+                        </div>
+                    </div>
+                </a>
+
+            </div>
             <div class="col-md-3">
                 <a href="assets/img/demand/tchrp_6_baisakh_080.png" data-lightbox="image-1">
                     <div class="card mb-4">
@@ -93,22 +103,9 @@
 
             </div>
 
-            <div class="col-md-3">
-                <a href="assets/img/demand/tchrp_5_baisakh_080.png" data-lightbox="image-1">
-                    <div class="card mb-4">
-
-                        <img class="img-fluid rounded" src="assets/img/demand/tchrp_5_baisakh_080.png" alt="">
-
-                        <div class="card-body">
-                            <h5 class="card-title">Published Date: 2080/01/6</h5>
-
-                        </div>
-                    </div>
-                </a>
-
-            </div>
-
             
+
+
         </div>
         <div class="mt-5">
             <a class="learn-more" href="job-demand.php">View More <i class="fa-solid fa-arrow-right ms-2"></i></a>
